@@ -14,12 +14,12 @@ Template: martfury
 */
 
 /* Badges */
-.mf-product-thumbnail .ribbons .ribbon {
-    font-weight: 400;
+.woocommerce .ribbons .ribbon {
+	font-weight: 400;
 	height: 25px;
-    line-height: 25px;
-    border-radius: 4px;
-    padding: 0 5px;
+	line-height: 25px;
+	border-radius: 4px;
+	padding: 0 5px;
 	font-size: 13px;
 	letter-spacing: 0.5px;
 }
