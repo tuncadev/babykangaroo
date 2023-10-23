@@ -1,0 +1,173 @@
+2023-10-18T20:22:18+00:00 CRITICAL Unparenthesized `a ? b : c ? d : e` is not supported. Use either `(a ? b : c) ? d : e` or `a ? b : (c ? d : e)` in /home/citymody/babykangaroo.com.ua/www/wp-content/plugins/revslider/includes/output.class.php on line 1912
+
+2023-10-18T20:22:19+00:00 CRITICAL Unparenthesized `a ? b : c ? d : e` is not supported. Use either `(a ? b : c) ? d : e` or `a ? b : (c ? d : e)` in /home/citymody/babykangaroo.com.ua/www/wp-content/plugins/revslider/includes/output.class.php on line 1912
+
+2023-10-18T20:22:19+00:00 CRITICAL Unparenthesized `a ? b : c ? d : e` is not supported. Use either `(a ? b : c) ? d : e` or `a ? b : (c ? d : e)` in /home/citymody/babykangaroo.com.ua/www/wp-content/plugins/revslider/includes/output.class.php on line 1912
+
+2023-10-18T20:24:37+00:00 CRITICAL Uncaught Error: Call to undefined function vc_map() in /home/citymody/babykangaroo.com.ua/www/wp-content/plugins/martfury-addons/inc/visual-composer.php:198
+Stack trace:
+#0 /home/citymody/babykangaroo.com.ua/www/wp-includes/class-wp-hook.php(310): Martfury_VC->map_shortcodes('')
+#1 /home/citymody/babykangaroo.com.ua/www/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters(NULL, Array)
+#2 /home/citymody/babykangaroo.com.ua/www/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home/citymody/babykangaroo.com.ua/www/wp-settings.php(632): do_action('init')
+#4 /home/citymody/babykangaroo.com.ua/www/wp-config.php(96): require_once('/home/citymody/...')
+#5 /home/citymody/babykangaroo.com.ua/www/wp-load.php(50): require_once('/home/citymody/...')
+#6 /home/citymody/babykangaroo.com.ua/www/wp-admin/admin-ajax.php(22): require_once('/home/citymody/...')
+#7 {main}
+  thrown in /home/citymody/babykangaroo.com.ua/www/wp-content/plugins/martfury-addons/inc/visual-composer.php on line 198
+
+2023-10-18T20:25:02+00:00 CRITICAL Uncaught Error: Call to undefined function vc_map() in /home/citymody/babykangaroo.com.ua/www/wp-content/plugins/martfury-addons/inc/visual-composer.php:198
+Stack trace:
+#0 /home/citymody/babykangaroo.com.ua/www/wp-includes/class-wp-hook.php(310): Martfury_VC->map_shortcodes('')
+#1 /home/citymody/babykangaroo.com.ua/www/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters(NULL, Array)
+#2 /home/citymody/babykangaroo.com.ua/www/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home/citymody/babykangaroo.com.ua/www/wp-settings.php(632): do_action('init')
+#4 /home/citymody/babykangaroo.com.ua/www/wp-config.php(96): require_once('/home/citymody/...')
+#5 /home/citymody/babykangaroo.com.ua/www/wp-load.php(50): require_once('/home/citymody/...')
+#6 /home/citymody/babykangaroo.com.ua/www/wp-admin/admin.php(34): require_once('/home/citymody/...')
+#7 /home/citymody/babykangaroo.com.ua/www/wp-admin/plugins.php(10): require_once('/home/citymody/...')
+#8 {main}
+  thrown in /home/citymody/babykangaroo.com.ua/www/wp-content/plugins/martfury-addons/inc/visual-composer.php on line 198
+
+2023-10-18T20:25:08+00:00 CRITICAL Uncaught Error: Call to undefined function vc_map() in /home/citymody/babykangaroo.com.ua/www/wp-content/plugins/martfury-addons/inc/visual-composer.php:198
+Stack trace:
+#0 /home/citymody/babykangaroo.com.ua/www/wp-includes/class-wp-hook.php(310): Martfury_VC->map_shortcodes('')
+#1 /home/citymody/babykangaroo.com.ua/www/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters(NULL, Array)
+#2 /home/citymody/babykangaroo.com.ua/www/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home/citymody/babykangaroo.com.ua/www/wp-settings.php(632): do_action('init')
+#4 /home/citymody/babykangaroo.com.ua/www/wp-config.php(96): require_once('/home/citymody/...')
+#5 /home/citymody/babykangaroo.com.ua/www/wp-load.php(50): require_once('/home/citymody/...')
+#6 /home/citymody/babykangaroo.com.ua/www/wp-admin/admin.php(34): require_once('/home/citymody/...')
+#7 /home/citymody/babykangaroo.com.ua/www/wp-admin/plugins.php(10): require_once('/home/citymody/...')
+#8 {main}
+  thrown in /home/citymody/babykangaroo.com.ua/www/wp-content/plugins/martfury-addons/inc/visual-composer.php on line 198
+
+2023-10-18T20:25:11+00:00 CRITICAL Uncaught Error: Call to undefined function vc_map() in /home/citymody/babykangaroo.com.ua/www/wp-content/plugins/martfury-addons/inc/visual-composer.php:198
+Stack trace:
+#0 /home/citymody/babykangaroo.com.ua/www/wp-includes/class-wp-hook.php(310): Martfury_VC->map_shortcodes('')
+#1 /home/citymody/babykangaroo.com.ua/www/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters(NULL, Array)
+#2 /home/citymody/babykangaroo.com.ua/www/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home/citymody/babykangaroo.com.ua/www/wp-settings.php(632): do_action('init')
+#4 /home/citymody/babykangaroo.com.ua/www/wp-config.php(96): require_once('/home/citymody/...')
+#5 /home/citymody/babykangaroo.com.ua/www/wp-load.php(50): require_once('/home/citymody/...')
+#6 /home/citymody/babykangaroo.com.ua/www/wp-admin/admin.php(34): require_once('/home/citymody/...')
+#7 /home/citymody/babykangaroo.com.ua/www/wp-admin/plugins.php(10): require_once('/home/citymody/...')
+#8 {main}
+  thrown in /home/citymody/babykangaroo.com.ua/www/wp-content/plugins/martfury-addons/inc/visual-composer.php on line 198
+
+2023-10-18T20:34:51+00:00 CRITICAL Uncaught Error: Call to undefined function vc_map() in /home/citymody/babykangaroo.com.ua/www/wp-content/plugins/martfury-addons/inc/visual-composer.php:208
+Stack trace:
+#0 /home/citymody/babykangaroo.com.ua/www/wp-includes/class-wp-hook.php(310): Martfury_VC->map_shortcodes('')
+#1 /home/citymody/babykangaroo.com.ua/www/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters(NULL, Array)
+#2 /home/citymody/babykangaroo.com.ua/www/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home/citymody/babykangaroo.com.ua/www/wp-settings.php(632): do_action('init')
+#4 /home/citymody/babykangaroo.com.ua/www/wp-config.php(96): require_once('/home/citymody/...')
+#5 /home/citymody/babykangaroo.com.ua/www/wp-load.php(50): require_once('/home/citymody/...')
+#6 /home/citymody/babykangaroo.com.ua/www/wp-blog-header.php(13): require_once('/home/citymody/...')
+#7 /home/citymody/babykangaroo.com.ua/www/index.php(17): require('/home/citymody/...')
+#8 {main}
+  thrown in /home/citymody/babykangaroo.com.ua/www/wp-content/plugins/martfury-addons/inc/visual-composer.php on line 208
+
+2023-10-18T20:34:53+00:00 CRITICAL Uncaught Error: Call to undefined function vc_map() in /home/citymody/babykangaroo.com.ua/www/wp-content/plugins/martfury-addons/inc/visual-composer.php:208
+Stack trace:
+#0 /home/citymody/babykangaroo.com.ua/www/wp-includes/class-wp-hook.php(310): Martfury_VC->map_shortcodes('')
+#1 /home/citymody/babykangaroo.com.ua/www/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters(NULL, Array)
+#2 /home/citymody/babykangaroo.com.ua/www/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home/citymody/babykangaroo.com.ua/www/wp-settings.php(632): do_action('init')
+#4 /home/citymody/babykangaroo.com.ua/www/wp-config.php(96): require_once('/home/citymody/...')
+#5 /home/citymody/babykangaroo.com.ua/www/wp-load.php(50): require_once('/home/citymody/...')
+#6 /home/citymody/babykangaroo.com.ua/www/wp-blog-header.php(13): require_once('/home/citymody/...')
+#7 /home/citymody/babykangaroo.com.ua/www/index.php(17): require('/home/citymody/...')
+#8 {main}
+  thrown in /home/citymody/babykangaroo.com.ua/www/wp-content/plugins/martfury-addons/inc/visual-composer.php on line 208
+
+2023-10-18T20:34:56+00:00 CRITICAL Uncaught Error: Call to undefined function vc_map() in /home/citymody/babykangaroo.com.ua/www/wp-content/plugins/martfury-addons/inc/visual-composer.php:208
+Stack trace:
+#0 /home/citymody/babykangaroo.com.ua/www/wp-includes/class-wp-hook.php(310): Martfury_VC->map_shortcodes('')
+#1 /home/citymody/babykangaroo.com.ua/www/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters(NULL, Array)
+#2 /home/citymody/babykangaroo.com.ua/www/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home/citymody/babykangaroo.com.ua/www/wp-settings.php(632): do_action('init')
+#4 /home/citymody/babykangaroo.com.ua/www/wp-config.php(96): require_once('/home/citymody/...')
+#5 /home/citymody/babykangaroo.com.ua/www/wp-load.php(50): require_once('/home/citymody/...')
+#6 /home/citymody/babykangaroo.com.ua/www/wp-blog-header.php(13): require_once('/home/citymody/...')
+#7 /home/citymody/babykangaroo.com.ua/www/index.php(17): require('/home/citymody/...')
+#8 {main}
+  thrown in /home/citymody/babykangaroo.com.ua/www/wp-content/plugins/martfury-addons/inc/visual-composer.php on line 208
+
+2023-10-18T20:35:01+00:00 CRITICAL Uncaught Error: Call to undefined function vc_map() in /home/citymody/babykangaroo.com.ua/www/wp-content/plugins/martfury-addons/inc/visual-composer.php:208
+Stack trace:
+#0 /home/citymody/babykangaroo.com.ua/www/wp-includes/class-wp-hook.php(310): Martfury_VC->map_shortcodes('')
+#1 /home/citymody/babykangaroo.com.ua/www/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters(NULL, Array)
+#2 /home/citymody/babykangaroo.com.ua/www/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home/citymody/babykangaroo.com.ua/www/wp-settings.php(632): do_action('init')
+#4 /home/citymody/babykangaroo.com.ua/www/wp-config.php(96): require_once('/home/citymody/...')
+#5 /home/citymody/babykangaroo.com.ua/www/wp-load.php(50): require_once('/home/citymody/...')
+#6 /home/citymody/babykangaroo.com.ua/www/wp-blog-header.php(13): require_once('/home/citymody/...')
+#7 /home/citymody/babykangaroo.com.ua/www/index.php(17): require('/home/citymody/...')
+#8 {main}
+  thrown in /home/citymody/babykangaroo.com.ua/www/wp-content/plugins/martfury-addons/inc/visual-composer.php on line 208
+
+2023-10-18T20:35:04+00:00 CRITICAL Uncaught Error: Call to undefined function vc_map() in /home/citymody/babykangaroo.com.ua/www/wp-content/plugins/martfury-addons/inc/visual-composer.php:208
+Stack trace:
+#0 /home/citymody/babykangaroo.com.ua/www/wp-includes/class-wp-hook.php(310): Martfury_VC->map_shortcodes('')
+#1 /home/citymody/babykangaroo.com.ua/www/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters(NULL, Array)
+#2 /home/citymody/babykangaroo.com.ua/www/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home/citymody/babykangaroo.com.ua/www/wp-settings.php(632): do_action('init')
+#4 /home/citymody/babykangaroo.com.ua/www/wp-config.php(96): require_once('/home/citymody/...')
+#5 /home/citymody/babykangaroo.com.ua/www/wp-load.php(50): require_once('/home/citymody/...')
+#6 /home/citymody/babykangaroo.com.ua/www/wp-blog-header.php(13): require_once('/home/citymody/...')
+#7 /home/citymody/babykangaroo.com.ua/www/index.php(17): require('/home/citymody/...')
+#8 {main}
+  thrown in /home/citymody/babykangaroo.com.ua/www/wp-content/plugins/martfury-addons/inc/visual-composer.php on line 208
+
+2023-10-18T20:35:08+00:00 CRITICAL Uncaught Error: Call to undefined function vc_map() in /home/citymody/babykangaroo.com.ua/www/wp-content/plugins/martfury-addons/inc/visual-composer.php:208
+Stack trace:
+#0 /home/citymody/babykangaroo.com.ua/www/wp-includes/class-wp-hook.php(310): Martfury_VC->map_shortcodes('')
+#1 /home/citymody/babykangaroo.com.ua/www/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters(NULL, Array)
+#2 /home/citymody/babykangaroo.com.ua/www/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home/citymody/babykangaroo.com.ua/www/wp-settings.php(632): do_action('init')
+#4 /home/citymody/babykangaroo.com.ua/www/wp-config.php(96): require_once('/home/citymody/...')
+#5 /home/citymody/babykangaroo.com.ua/www/wp-load.php(50): require_once('/home/citymody/...')
+#6 /home/citymody/babykangaroo.com.ua/www/wp-admin/admin.php(34): require_once('/home/citymody/...')
+#7 /home/citymody/babykangaroo.com.ua/www/wp-admin/index.php(10): require_once('/home/citymody/...')
+#8 {main}
+  thrown in /home/citymody/babykangaroo.com.ua/www/wp-content/plugins/martfury-addons/inc/visual-composer.php on line 208
+
+2023-10-18T20:35:31+00:00 CRITICAL Uncaught Error: Call to undefined function vc_map() in /home/citymody/babykangaroo.com.ua/www/wp-content/plugins/martfury-addons/inc/visual-composer.php:208
+Stack trace:
+#0 /home/citymody/babykangaroo.com.ua/www/wp-includes/class-wp-hook.php(310): Martfury_VC->map_shortcodes('')
+#1 /home/citymody/babykangaroo.com.ua/www/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters(NULL, Array)
+#2 /home/citymody/babykangaroo.com.ua/www/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home/citymody/babykangaroo.com.ua/www/wp-settings.php(632): do_action('init')
+#4 /home/citymody/babykangaroo.com.ua/www/wp-config.php(96): require_once('/home/citymody/...')
+#5 /home/citymody/babykangaroo.com.ua/www/wp-load.php(50): require_once('/home/citymody/...')
+#6 /home/citymody/babykangaroo.com.ua/www/wp-admin/admin.php(34): require_once('/home/citymody/...')
+#7 /home/citymody/babykangaroo.com.ua/www/wp-admin/index.php(10): require_once('/home/citymody/...')
+#8 {main}
+  thrown in /home/citymody/babykangaroo.com.ua/www/wp-content/plugins/martfury-addons/inc/visual-composer.php on line 208
+
+2023-10-18T20:35:33+00:00 CRITICAL Uncaught Error: Call to undefined function vc_map() in /home/citymody/babykangaroo.com.ua/www/wp-content/plugins/martfury-addons/inc/visual-composer.php:208
+Stack trace:
+#0 /home/citymody/babykangaroo.com.ua/www/wp-includes/class-wp-hook.php(310): Martfury_VC->map_shortcodes('')
+#1 /home/citymody/babykangaroo.com.ua/www/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters(NULL, Array)
+#2 /home/citymody/babykangaroo.com.ua/www/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home/citymody/babykangaroo.com.ua/www/wp-settings.php(632): do_action('init')
+#4 /home/citymody/babykangaroo.com.ua/www/wp-config.php(96): require_once('/home/citymody/...')
+#5 /home/citymody/babykangaroo.com.ua/www/wp-load.php(50): require_once('/home/citymody/...')
+#6 /home/citymody/babykangaroo.com.ua/www/wp-admin/admin.php(34): require_once('/home/citymody/...')
+#7 /home/citymody/babykangaroo.com.ua/www/wp-admin/index.php(10): require_once('/home/citymody/...')
+#8 {main}
+  thrown in /home/citymody/babykangaroo.com.ua/www/wp-content/plugins/martfury-addons/inc/visual-composer.php on line 208
+
+2023-10-18T20:35:47+00:00 CRITICAL Uncaught Error: Call to undefined function vc_map() in /home/citymody/babykangaroo.com.ua/www/wp-content/plugins/martfury-addons/inc/visual-composer.php:208
+Stack trace:
+#0 /home/citymody/babykangaroo.com.ua/www/wp-includes/class-wp-hook.php(310): Martfury_VC->map_shortcodes('')
+#1 /home/citymody/babykangaroo.com.ua/www/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters(NULL, Array)
+#2 /home/citymody/babykangaroo.com.ua/www/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home/citymody/babykangaroo.com.ua/www/wp-settings.php(632): do_action('init')
+#4 /home/citymody/babykangaroo.com.ua/www/wp-config.php(96): require_once('/home/citymody/...')
+#5 /home/citymody/babykangaroo.com.ua/www/wp-load.php(50): require_once('/home/citymody/...')
+#6 /home/citymody/babykangaroo.com.ua/www/wp-admin/admin-ajax.php(22): require_once('/home/citymody/...')
+#7 {main}
+  thrown in /home/citymody/babykangaroo.com.ua/www/wp-content/plugins/martfury-addons/inc/visual-composer.php on line 208
+
