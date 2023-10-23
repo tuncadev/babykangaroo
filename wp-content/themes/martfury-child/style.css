@@ -24,3 +24,8 @@ Template: martfury
 	letter-spacing: 0.5px;
 }
 /* *** */
+/* Variations */
+.variations .iconic-wlv-terms__term--current .iconic-wlv-terms__term-content {
+	border: 2px red solid;
+}
+/* *** */
